@@ -5,7 +5,7 @@ Sick of seeing all your auto-scaling cloud servers listed in NewRelic? Then this
 ## Usage
 
     npm install newrelic-delete-old-servers
-    node ./node_modules/new-relic-delete-old-servers/ [YOUR_API_KEY]
+    node ./node_modules/newrelic-delete-old-servers/ [YOUR_API_KEY]
 
 ### Finding your NewRelic API key
 
